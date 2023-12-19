@@ -3,5 +3,5 @@ main()
  sum(){
 printf("addition",a+b)
 }
-mul()
+mul();
 div();
