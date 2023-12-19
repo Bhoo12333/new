@@ -4,4 +4,4 @@ main()
 printf("addition",a+b)
 }
 mul()
-div()
+div();
