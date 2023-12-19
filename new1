@@ -1,5 +1,7 @@
 #include<stdio.h>
-int a, b;
-int sum(){
+main()
+ sum(){
 printf("addition",a+b)
 }
+mul()
+div()
